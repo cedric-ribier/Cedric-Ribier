@@ -61,7 +61,7 @@ Je construis des environnements réalistes pour apprendre par l'expérimentation
 ### 📄 Guides d'installation
 > Documentations d'installation pas-à-pas pour des services couramment déployés en environnement pro.
 
-📁 [`install-guides`](https://github.com/CedricRibier/install-guides)
+📁 [`install-guides`](https://github.com/cedric-ribier/install-guides)
 
 ---
 
