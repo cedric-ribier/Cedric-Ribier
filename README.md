@@ -4,7 +4,7 @@
 
 **Reconversion IT · Réseau & Infrastructure · Administration Système · Scripting**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cédric_Ribier-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/cédric-ribier-3393b2301)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Cédric_Ribier-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/cédric-ribier)
 [![Localisation](https://img.shields.io/badge/📍_Caen,_Normandie-France-6c6c6c?style=flat-square)](https://github.com/CedricRibier)
 
 </div>
