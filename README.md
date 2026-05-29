@@ -34,6 +34,19 @@ Je construis des environnements réalistes pour apprendre par l'expérimentation
 
 ## Projets en cours
 
+### 🔬 Lab Réseau  — Cisco Packet Tracer
+> Environnement de lab progressif avec fichier .pka.
+
+- Progression segmenté par niveau: débutant ; intermédiaire ; avancé ; expert.
+- Documentations
+- Commande IOS, modéle OSI, Vlan, routage.
+- Topologie multi-couches avec routeurs, switches et DMZ
+- Politiques ACL et segmentation réseau
+
+📁 [`lab-Cisco-Packet-Tracer`](https://github.com/cedric-ribier/lab-Cisco-Packet-Tracer)
+
+---
+
 ### 🔬 Lab Réseau & Sécurité — GNS3
 > Environnement de lab complet simulant une infrastructure d'entreprise avec supervision de sécurité intégrée.
 
