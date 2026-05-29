@@ -43,7 +43,7 @@ Je construis des environnements réalistes pour apprendre par l'expérimentation
 - Topologie multi-couches avec routeurs, switches et DMZ
 - Politiques ACL et segmentation réseau
 
-📁 [`lab-Cisco-Packet-Tracer`](https://github.com/cedric-ribier/lab-Cisco-Packet-Tracer)
+📁 [`lab-Cisco-Packet-Tracer`](https://github.com/cedric-ribier/lab-Cisco-Packet-Tacer)
 
 ---
 
