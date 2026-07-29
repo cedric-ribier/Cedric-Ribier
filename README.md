@@ -90,7 +90,7 @@ Je construis des environnements réalistes pour apprendre par l'expérimentation
 
 <div align="center">
   
-![Les Stats GitHub de Cedric](https://github-readme-stats.vercel.app/api?username=cedric-ribier&show_icons=true&theme=radical)
+![Les Stats GitHub de Cedric](https://github-stats-extended.vercel.app/api?username=cedric-ribier&show_icons=true&theme=radical)
 </div>
 
 ---
